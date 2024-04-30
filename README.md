@@ -1,2 +1,2 @@
 # ColaAi
-Arquivos do aplicativo ColaAi
+Versão do banco do ColaAi
